@@ -1,4 +1,4 @@
-# Çekiliş Bot
+# Çekiliş Botu
 
 ## Nasıl kurulur?
 Öncelikle `.env_config` dosyasını `.env` olarak yeniden adlandırın ve `.env` içindeki değerleri doldurun:
