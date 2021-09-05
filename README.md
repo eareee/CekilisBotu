@@ -1,7 +1,9 @@
-# Çekiliş Botu
+# 🎉 Çekiliş Botu
 
-## Nasıl kurulur?
+## ⚙️ Nasıl kurulur?
+
 Öncelikle `.env_config` dosyasını `.env` olarak yeniden adlandırın ve `.env` içindeki değerleri doldurun:
+
 ```
 # Bot tokeniniz
 TOKEN=
@@ -13,18 +15,28 @@ PREFIX=
 AUTHOR_ID=
 ```
 
-## Screenshotlar
-### `başlat` komutu
-![](https://user-images.githubusercontent.com/67333585/120184385-971a8280-c219-11eb-9b9b-2c3497a20fb9.png)
-![](https://user-images.githubusercontent.com/67333585/120184403-9c77cd00-c219-11eb-90dc-7277ce4b0ed9.png)
-### `bitir` komutu
-![](https://user-images.githubusercontent.com/67333585/120184453-ab5e7f80-c219-11eb-8b9b-d5d6c55a675b.png)
-### `yeniden-çek` komutu
-![](https://user-images.githubusercontent.com/67333585/120184498-b9140500-c219-11eb-9fbd-6b20aa3d4365.png)
+## 📷 Screenshotlar
 
-# Creditler
+### 🎬 `başlat` komutu
+
+![resim](https://user-images.githubusercontent.com/67333585/132130008-4cc43494-a1de-4d15-8d1b-d7eae64d6035.png)
+![resim](https://user-images.githubusercontent.com/67333585/132130023-77d4205a-b312-48b3-9fec-ccdf262f3ec9.png)
+
+### 🛑 `bitir` komutu
+
+![resim](https://user-images.githubusercontent.com/67333585/132130027-f0c5e3ca-ca82-4321-aca8-0c3c2b285dc8.png)
+
+### ♻️ `yeniden-çek` komutu
+
+![resim](https://user-images.githubusercontent.com/67333585/132130036-2d5810f4-1f15-4386-a723-7b82c6ba4f64.png)
+
+# 🙌 Creditler
+
 ## [@DazzGranto](https://github.com/DazzGranto)
+
 - [DazzGranto/basic-discord-bot](https://github.com/DazzGranto/basic-discord-bot)
+
 ## [@Androz2091](https://github.com/Androz2091)
+
 - [Androz2091/discord-giveaways](https://github.com/Androz2091/discord-giveaways)
 - [Androz2091/giveaways-bot](https://github.com/Androz2091/giveaways-bot)
